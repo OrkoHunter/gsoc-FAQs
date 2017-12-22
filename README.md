@@ -15,7 +15,20 @@ Note : I use this repository for personal use and send it to friends and acquant
 
 ### Questions
 
-
+1. [When do I start? Is it too late? ^](#when-do-i-start-is-it-too-late)
+2. [Do first year undergraduate students qualify? I find this very hard.](#do-first-year-undergraduate-students-qualify-i-find-this-very-hard)
+3. [I get scared when I see seniors applying on the same project. What to do?](#i-get-scared-when-i-see-seniors-applying-on-the-same-project-what-to-do)
+4. [But I just started with Open Source and X has more experience and knowledge. Then why would the mentor choose me?](#but-i-just-started-with-open-source-and-x-has-more-experience-and-knowledge-then-why-would-the-mentor-choose-me)
+5. [I do not know even a small fraction of technologies listed in the GSoC projects. How am I going to learn them all ?](#i-do-not-know-even-a-small-fraction-of-technologies-listed-in-the-gsoc-projects-how-am-i-going-to-learn-them-all)
+6. [How will GSoC help me in my career ?](#how-will-gsoc-help-me-in-my-career)
+7. [Who are the mentors? Do they get paid?](#who-are-the-mentors-do-they-get-paid)
+8. [How much minimum coding experience do I need?](#how-much-minimum-coding-experience-do-i-need)
+9. [I just know C. Is that enough?](#i-just-know-c-is-that-enough)
+10. [Why does Google pay if it gets nothing in return? ^](#why-does-google-pay-if-it-gets-nothing-in-return)
+11. [How are the applications for GSoC selected? On what factors do they determine the skill set of a student?](#how-are-the-applications-for-gsoc-selected-on-what-factors-do-they-determine-the-skill-set-of-a-student)
+12. [Can we contribute to the project(s) only after getting selected?](#can-we-contribute-to-the-projects-only-after-getting-selected)
+13. [Is GSoC hard to do?](#is-gsoc-hard-to-do)
+14. [Why do you recommend GSoC, and to whom? ^](#why-do-you-recommend-gsoc-and-to-whom)
 
 ### When do I start? Is it too late? ^
 
