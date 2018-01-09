@@ -32,7 +32,7 @@ Note : I use this repository for personal use and send it to friends and acquant
 
 ### When do I start? Is it too late? ^
 
-It varies with the organizations. Few orgs have contributors who start way too early every year while some orgs are new and receives traction only when GSoC releases the confirmed org list for that year. But I do not think it's ever too late to apply for the next GSoC.  I came to know about my organization (NetworkX under after Python Software Foundation) around a week after it was officially released ! I was 6 days late for [my first comment](https://github.com/ networkx/networkx/issues/1167#issuecomment-77666191)) But mostly it's not late as long as GSoC has not officially released the list of organizations.
+It varies with the organizations. Few orgs have contributors who start way too early every year while some orgs are new and receives traction only when GSoC releases the confirmed org list for that year. But I do not think it's ever too late to apply for the next GSoC.  I came to know about my organization (NetworkX under after Python Software Foundation) around a week after it was officially released ! I was 6 days late for [my first comment](https://github.com/networkx/networkx/issues/1167#issuecomment-77666191), but mostly it's not late as long as GSoC has not officially released the list of organizations.
 
 ### Do first year undergraduate students qualify? I find this very hard.
 
