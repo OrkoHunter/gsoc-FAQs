@@ -1,5 +1,5 @@
 # gsoc-FAQs
-An unofficial [Google Summer of Code](https://g.co/gsoc) Frequently Asked Questions. I use this 
+An unofficial [Google Summer of Code](https://g.co/gsoc) Frequently Asked Questions.
 
 # Read This before you proceed
 If you want GSoC advice, please understand that there are many, many mentors who have been asked similiar questions over and over again. Hence, there is a GSoC Manual for you. It might be painful for you if you do not like reading texts on the internet, but you will have to develop the habit of reading guides, documentations, manuals etc. if you plan to contribute to Open Source. Also, the GSoC manual is written in a very simple and interactive manner. Hence, sit down, and read the entire thing. Just do it.
@@ -95,3 +95,7 @@ I am still not able to clearly understand the reason why I recommend it so much 
 --
 
 ^ Denotes personal favorite questions
+
+# Got more questions?
+
+[Create an issue](https://github.com/OrkoHunter/gsoc-FAQs/issues/new).
