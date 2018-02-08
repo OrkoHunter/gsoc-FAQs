@@ -1,6 +1,6 @@
 NOTE:
  - Have you read [How to Ask Questions the Smart Way](http://www.catb.org/esr/faqs/smart-questions.html) ?
- - Please fill out the template below.
+ - Please fill out the template below to get a definite answer.
 
 ## What is your query? 
 
