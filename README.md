@@ -4,7 +4,7 @@ An unofficial [Google Summer of Code](https://g.co/gsoc) Frequently Asked Questi
 # Read This before you proceed
 If you want GSoC advice, please understand that there are many, many mentors who have been asked similiar questions over and over again. Hence, there is a GSoC Manual for you. It might be painful for you if you do not like reading texts on the internet, but you will have to develop the habit of reading guides, documentations, manuals etc. if you plan to contribute to Open Source. Also, the GSoC manual is written in a very simple and interactive manner. Hence, sit down, and read the entire thing. Just do it.
 
-## :closed_book: http://write.flossmanuals.net/gsocstudentguide
+## :closed_book: https://google.github.io/gsocguides/student/
 
 Now, once you have read the entire thing,
 
